@@ -1,1 +1,4 @@
 select*from table_name;
+alter table 
+## this is my sql file
+
