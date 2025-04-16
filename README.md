@@ -1,4 +1,4 @@
-# Ola Ride Data Analysis Project
+#  Ola Ride Data Analysis Project
 
 ##  Power BI Dashboard & SQL Insights
 
@@ -67,6 +67,44 @@ These queries helped in shaping the KPIs and visuals used in the dashboard.
   - Booking status
   - Payment method
 
+  Ola-Dashboard-Analysis/
+
+📁 images/
+### 1. Overall Performance
+
+- **Total Bookings:** 71,201  
+- **Total Booking Value:** ₹24M  
+- **Success Rate:** 62.18%  
+- **Cancellations & Issues:**
+  - By Driver: 17.88%
+  - By Customer: 10.13%
+  - Driver Not Found: 9.81%
+
+![Image](https://github.com/user-attachments/assets/84144cf1-3a1b-47e1-b639-98b0a2f0a3a4)
+
+### 2. Vehicle Type Analysis
+
+Key insights into different vehicle types such as Prime Sedan, SUV, Mini, Auto, Bike, and E-Bike.
+
+| Vehicle Type | Total Booking Value | Avg Distance (km) |
+|--------------|----------------------|-------------------|
+| Prime Sedan  | ₹5.76M              | 24.87             |
+| E-Bike       | ₹5.67M              | 25.05             |
+| Bike         | ₹5.54M              | 25.08             |
+| Auto         | ₹5.54M              | 10.05             |
+
+![Image](https://github.com/user-attachments/assets/134d0387-6517-45b3-a502-889997ddf716)
+
+
+### 3. Revenue & Ride Distance
+
+- **Top Payment Method:** Cash  
+- **Top 5 Customers by Booking Value:** CID933539, CID635848, etc.  
+- **Daily Distance Travelled:** ~30K - 40K km  
+
+![Image](https://github.com/user-attachments/assets/73a85a9f-4318-401b-a8b6-12ca97f44c50)
+
+
 ---
 
 ##  Key Insights
@@ -98,14 +136,14 @@ This project provides a data-driven view of Ola's ride operations. The dashboard
 
 ---
 
-##  Files Included
+## Files Included
 
 - `Ola-data-analysis-project.sql` – SQL script for data preprocessing and views
 - `Ola dashboard.pbix` – Power BI dashboard file
 
 ---
 
-##  Author
+## Author
 
 **Tanvi Kanaiya**  
 Aspiring Data Scientist | Power BI Enthusiast  
