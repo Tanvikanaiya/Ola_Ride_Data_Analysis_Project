@@ -56,8 +56,7 @@ These queries helped in shaping the KPIs and visuals used in the dashboard.
 - **Visuals**:
   - Booking status trends over time
   - Ride distance comparison by vehicle type
-  - Cancellation reasons breakdown
-  - Payment method distribution
+  -  Booking cancellation 
   - Customer and ride rating analysis
   - Top customers by bookings
 
@@ -106,7 +105,24 @@ Key insights into different vehicle types such as Prime Sedan, SUV, Mini, Auto, 
 
 
 ---
+### 4. Cancellations & Booking Failures
+- Top Cancellation Reason by Customer: Driver is not moving toward location (29.96%)
+- Top Cancellation Reason by Driver: Personal & Car related issue (34.95%)
+- Total Cancelled Bookings: 19,942 (27.99% of total bookings)
+- Success Rate: 62.18%
+ ![Image](https://github.com/user-attachments/assets/0bc78e26-1a33-425d-85bf-ad9ca9f684a9)
 
+
+---
+### 5. Ride Ratings
+- Top Rated Vehicle by Drivers: Prime SUV & E-Bike – 4.01
+- Top Rated Vehicle by Customers: Prime Plus – 4.01
+- Lowest Rated by Drivers: Bike – 3.98
+- Lowest Rated by Customers: Bike & E-Bike – 3.99
+- Most Consistent Ratings: Auto & Mini – 4.00 by both Drivers and Customers
+  ![Image](https://github.com/user-attachments/assets/e316fbee-11bb-42dc-8a2b-59f18884defe)
+
+  ---
 ##  Key Insights
 
 - A significant number of **cancellations are customer-driven**, often influenced by pickup time or location.
